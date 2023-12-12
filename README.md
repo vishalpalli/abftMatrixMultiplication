@@ -13,6 +13,7 @@
 <p>
 After using the <code>python task1.py</code> command, the results are as follow:
 </p>
+<span><img src="https://github.com/vishalpalli/abftMatrixMultiplication/assets/153464283/77968453-312c-4c0f-a6bf-83d90a5c65a1"></span>
 ![Screenshot (61)](https://github.com/vishalpalli/abftMatrixMultiplication/assets/153464283/77968453-312c-4c0f-a6bf-83d90a5c65a1)
 <br>
 <p>
