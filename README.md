@@ -9,3 +9,11 @@
 <p>
   <i>task1.py</i> and <i>task2.py</i> represents the matix multiplication for task 1 and task 2 of the project. 
 </p>
+<br>
+<p>
+After using the <code>python task1.py</code> command, the results are as follow:
+</p>
+<br>
+<p>
+After using the <code>python task2.py</code> command, the result is as follow:
+</p>
