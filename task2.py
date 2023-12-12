@@ -1,3 +1,9 @@
+'''
+NAME: VISHAL PALLI
+ID: 49042025
+COURSE => ECE8379: FAULT TOLERANT COMPUTING
+
+'''
 from mpi4py import MPI
 import numpy as np
 import time
