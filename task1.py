@@ -68,7 +68,7 @@ def main():
         print("No errors detected.")
 
     # Write the result matrix to a CSV file
-    result_file_path = "result_matrix.csv"
+    result_file_path = "resultMatrixTask1.csv"
     write_matrix_to_csv(C_with_errors, result_file_path)
     print("Result matrix written to:", result_file_path)
 
